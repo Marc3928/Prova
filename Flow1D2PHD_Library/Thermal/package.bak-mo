@@ -1,0 +1,5 @@
+within Flow1D2PHD_Library;
+
+package HeatTransfer
+    extends Modelica.Icons.Package;
+end HeatTransfer;
